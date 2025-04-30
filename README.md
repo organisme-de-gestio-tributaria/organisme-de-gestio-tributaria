@@ -5,7 +5,7 @@ Aquí publiquem informació d'interès per als desenvolupadors externs que volen
 ## Webservices per ajuntaments
 | Webservice per a ajuntaments | Documentació i exemples |
 |---|---|
-| Autoliquidació genèrica | [Enllaç](https://github.com/organisme-de-gestio-tributaria/autoliquidacio-generica/edit/main/README.md) |
+| Autoliquidació genèrica | [Enllaç](https://github.com/organisme-de-gestio-tributaria/autoliquidacio-generica) |
 | Alta d'infraccions de trànsit | [Enllaç](https://github.com/organisme-de-gestio-tributaria/alta-multes) |
 | Consulta de deutes tributaris | [Enllaç](https://github.com/organisme-de-gestio-tributaria/consulta-deutes-tributaris) |
 | Consulta de deutes de multes | [Enllaç](https://github.com/organisme-de-gestio-tributaria/consulta-deutes-multes) |
