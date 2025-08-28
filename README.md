@@ -13,3 +13,7 @@ Aquí publiquem informació d'interès per als desenvolupadors externs que volen
 ## Procés de sol·licitud d'adhesió als webservices per ajuntaments (en construcció)
 
 (...)
+
+## Web de l'ORGT
+
+[Podeu accedir al web de l'ORGT aquí: https://orgt.diba.cat](https://orgt.diba.cat)
