@@ -9,6 +9,7 @@ Aquí publiquem informació d'interès per als desenvolupadors externs que volen
 | Alta d'infraccions de trànsit | [Enllaç](https://github.com/organisme-de-gestio-tributaria/alta-multes) |
 | Consulta de deutes tributaris | [Enllaç](https://github.com/organisme-de-gestio-tributaria/consulta-deutes-tributaris) |
 | Consulta de deutes de multes | [Enllaç](https://github.com/organisme-de-gestio-tributaria/consulta-deutes-multes) |
+| Petició de treballs | [Enllaç](https://github.com/organisme-de-gestio-tributaria/peticio-treballs) |
 
 ## Procés de sol·licitud d'adhesió als webservices per ajuntaments (en construcció)
 
