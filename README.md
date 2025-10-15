@@ -11,7 +11,7 @@ Aquí publiquem informació d'interès per als desenvolupadors externs que volen
 | Consulta de deutes de multes | [Enllaç](https://github.com/organisme-de-gestio-tributaria/consulta-deutes-multes) |
 | Petició de treballs | [Enllaç](https://github.com/organisme-de-gestio-tributaria/peticio-treballs) |
 
-## Procés de sol·licitud d'adhesió als webservices per ajuntaments (en construcció)
+## Procés de sol·licitud d'adhesió als webservices per ajuntaments
 
 Els ajuntaments que han delegat la gestió de tributs i multes a l’ORGT de la Diputació de Barcelona poden integrar-se amb els serveis web (WS) que ofereix l’ORGT. Aquesta integració permet automatitzar processos i millorar l’eficiència en la gestió tributària i sancionadora.
 
