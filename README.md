@@ -1,6 +1,8 @@
 # GitHub de l'Organisme de Gestió Tributària (ORGT) de la Diputació de Barcelona.
 
-Aquí publiquem informació d'interès per als desenvolupadors externs que volen accedir als serveis oferts per l'ORGT.
+Aquest és l'espai oficial de l'**Organisme de Gestió Tributària (ORGT)** de la Diputació de Barcelona per a la publicació d'informació d'interès per als desenvolupadors externs que volen accedir als serveis oferts per l'ORGT.
+
+**Web oficial:** [orgt.diba.cat](https://orgt.diba.cat)
 
 ## Webservices per ajuntaments
 | Webservice per a ajuntaments | Documentació i exemples |
